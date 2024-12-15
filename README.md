@@ -2,6 +2,18 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaddou3&label=Profile%20views&color=0e75b6&style=flat" alt="jaddou3" /> </p>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Al-Dos024&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Al-Dos024&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+
+<img align="right" height="250" src="https://camo.githubusercontent.com/a9018229e78d674348171929c4fd61ae0f248e84c8027e3b96f4cbe0178fb1c0/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65342f32362f37302f65343236373032656466383734623138316163656431653266613563366364652e676966"  />
+
+###
+
 - 🌱 I’m currently learning **Spring boot**
 
 - 💬 Ask me about **any thing.**
